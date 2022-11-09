@@ -8,7 +8,7 @@
 
 
 %----Maxsteps----%
-maxsteps(6).
+maxsteps(20).
 
 %----Robots-----%
 robot(r1).
